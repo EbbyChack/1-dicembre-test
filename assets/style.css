@@ -1,0 +1,79 @@
+/* header */
+#logo {
+  width: 8em;
+}
+#profile {
+  width: 3em;
+  padding-inline: 0.5em;
+}
+
+.nav-item i {
+  padding-inline: 0.5em;
+}
+.nav-link {
+  color: white;
+  font-size: 0.8em;
+}
+i {
+  cursor: pointer;
+}
+
+/* main */
+
+h5 {
+  margin-block: 0.3em 0.5em;
+}
+.button-custom {
+  border-radius: 0;
+  padding: 0.4em;
+}
+.series {
+  width: 11.6rem;
+}
+.container {
+  margin: 0;
+}
+
+/* footer */
+footer {
+  margin-inline: 20%;
+  margin-top: 8em;
+}
+footer div p {
+  font-size: 0.7em;
+}
+#copyright {
+  font-size: 0.7em;
+}
+ /* profile */
+ #profileSec {
+    margin-inline: 30%;
+ }
+ #profileSec h1 {
+    font-size: 3.5em;
+    font-weight: 300;
+    text-align: left;
+ }
+ #profileSecPP {
+    width:8em
+ }
+ .maturity {
+    background-color: rgba(157, 157, 157, 0.265);
+    font-size: 0.9em;
+ }
+ .smallText {
+    font-size: 0.7em;
+ }
+ .autoplay li label {
+    font-size: 0.8em;
+ }
+ #button1{
+    padding: 0.4em 1em;
+ }
+ #button2{
+    padding: 0.4em 1em;
+ }
+ #button3{
+    padding: 0.4em 1em;
+    width: 12em;
+ }
